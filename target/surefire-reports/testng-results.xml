@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Surefire suite" duration-ms="111" started-at="2020-07-24T22:45:49 IST" finished-at="2020-07-24T22:45:49 IST">
+    <groups>
+    </groups>
+    <test name="Surefire test" duration-ms="111" started-at="2020-07-24T22:45:49 IST" finished-at="2020-07-24T22:45:49 IST">
+      <class name="com.jacocotest.BookTest">
+        <test-method status="PASS" signature="testinvalidadmin()" name="testinvalidadmin" duration-ms="24" started-at="2020-07-24T22:45:49 IST" finished-at="2020-07-24T22:45:49 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testinvalidadmin -->
+        <test-method status="PASS" signature="testvalidadmin()" name="testvalidadmin" duration-ms="22" started-at="2020-07-24T22:45:49 IST" finished-at="2020-07-24T22:45:49 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testvalidadmin -->
+      </class> <!-- com.jacocotest.BookTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>

@@ -1,0 +1,5 @@
+https://www.eclemma.org/jacoco/trunk/doc/examples/build/pom-it.xml
+
+
+maven clean
+maven install
